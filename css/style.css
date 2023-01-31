@@ -18,3 +18,16 @@ body {
     width: 10em;
     background: red;
 }
+
+.headmenu__links_wrapper {
+    display: flex;
+}
+
+.link_wrapper {
+    margin-left: 2em;
+}
+
+.x-container {
+    max-width: 80vw;
+    margin: 0 auto;
+}
