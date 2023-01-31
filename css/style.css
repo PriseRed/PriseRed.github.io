@@ -37,3 +37,27 @@ body {
     max-width: 70vw;
     margin: 0 auto;
 }
+
+.await_section__grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.await_section__grid_item {
+    box-sizing: border-box;
+    width: 25%;
+    padding-right: 1em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+.grid_title {
+    font-weight: 700;
+    font-size: 1.3em;
+}
+
+.grid_text {
+    font-size: 1.1em;
+}
