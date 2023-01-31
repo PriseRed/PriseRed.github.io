@@ -28,6 +28,7 @@ body {
 }
 
 .x-container {
+    width: 95%;
     max-width: 80vw;
     margin: 0 auto;
 }
